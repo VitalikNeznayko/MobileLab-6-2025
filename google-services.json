@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037748700546",
+    "project_id": "mobilelab4-15ad9",
+    "storage_bucket": "mobilelab4-15ad9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037748700546:android:3870eb970cb6832a4d3b9b",
+        "android_client_info": {
+          "package_name": "com.auth.up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOZU76D_M7My5VDyH66pb1JqlinwIWlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037748700546:android:008d6377417f26004d3b9b",
+        "android_client_info": {
+          "package_name": "com.ztu.pushApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOZU76D_M7My5VDyH66pb1JqlinwIWlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
